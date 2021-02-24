@@ -6,7 +6,7 @@
 #
 ###########################################################
 
-How to run:
+## How to run:
 
 The zip file containing the source code for the project
 should also contain an executable SwarmPlayer.jar file which you 
